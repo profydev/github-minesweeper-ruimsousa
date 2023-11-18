@@ -1,4 +1,5 @@
 {
-  "commands": [],
-  "comment": "test"
+  "commands": [
+    "clear A8"
+  ]
 }
